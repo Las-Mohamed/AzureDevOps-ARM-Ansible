@@ -13,7 +13,7 @@
       "metadata": {
         "description": "Admin password"
       }
-    },
+    }
   },
   "variables": {
     "virtualNetworkName": "VNET",
