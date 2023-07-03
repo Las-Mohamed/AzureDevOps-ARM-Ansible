@@ -1,4 +1,4 @@
 #!/bin/bash
-sudo apt install jsonlint
-sudo apt install python3-demjson
-sudo jsonlint arm.json
+apt install jsonlint
+apt install python3-demjson
+jsonlint arm.json
